@@ -1,6 +1,6 @@
 ## Hi, I'm Annamária Sréter
 
-Master's student in Business Information Systems (Wirtschaftsinformatik) at HSLU and FFHS in Switzerland. I'm interested in data, AI and user-centred digital products.
+Master's student in Business Information Systems (Wirtschaftsinformatik) at FFHS in Switzerland. I'm interested in data, AI and user-centred digital products.
 
 ### Selected projects
 
